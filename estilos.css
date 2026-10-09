@@ -1,0 +1,16 @@
+
+body {
+    padding-top: 60px;
+}
+
+h1, h2 {
+    color: purple;
+}
+
+section {
+    scroll-margin-top: 60px;
+}
+
+html {
+    scroll-behavior: smooth;
+}
